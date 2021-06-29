@@ -1,5 +1,5 @@
 # IAJES-2.0
-IAJES new version on ReactJS created by Shruti Jagadeesh Bhat
+IAJES new version on ReactJS created by Aanchal Rai and Shruti Jagadeesh Bhat
 
 Steps:
 ----
