@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IajesDeploy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/IajesDeploy/static/js/main.f528194d.chunk.js",
+    "main.js.map": "/IajesDeploy/static/js/main.f528194d.chunk.js.map",
+    "runtime-main.js": "/IajesDeploy/static/js/runtime-main.5d407c7e.js",
+    "runtime-main.js.map": "/IajesDeploy/static/js/runtime-main.5d407c7e.js.map",
+    "static/js/2.3a54ffd3.chunk.js": "/IajesDeploy/static/js/2.3a54ffd3.chunk.js",
+    "static/js/2.3a54ffd3.chunk.js.map": "/IajesDeploy/static/js/2.3a54ffd3.chunk.js.map",
+    "index.html": "/IajesDeploy/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/IajesDeploy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3a54ffd3.chunk.js.LICENSE.txt": "/IajesDeploy/static/js/2.3a54ffd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d407c7e.js",
+    "static/js/2.3a54ffd3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f528194d.chunk.js"
+  ]
+}
